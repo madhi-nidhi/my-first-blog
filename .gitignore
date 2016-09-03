@@ -1,0 +1,17 @@
+#-------------------------------------------------------------------------------
+# Name:        module2
+# Purpose:
+#
+# Author:      HAPPY
+#
+# Created:     03/09/2016
+# Copyright:   (c) HAPPY 2016
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+*.pyc
+__pycache__
+myenv v
+db.sqlite3
+/static
+.DS_Store
